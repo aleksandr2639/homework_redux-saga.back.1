@@ -1,0 +1,20 @@
+{
+  "name": "homework_redux-saga.back.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Netology",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
